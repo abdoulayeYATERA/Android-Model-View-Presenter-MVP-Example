@@ -17,11 +17,11 @@ import butterknife.ButterKnife;
 
 /**
  * this is the view,
- * it hold the associated presenter reference {@link MainActivityPresenter}
+ * it holds the associated presenter reference {@link MainActivityPresenter}
  * it doesn't hold the model reference (it is not aware of the model)
  *
  * very important !!!!
- * there is not logical code in the view, events are delivered to the presenter
+ * there is not logical treatement in the view, events are delivered to the presenter
  * (a view has only ONE presenter)
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
