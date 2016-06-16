@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mvp sample</string>
+    <string name="activity_main_firstname_edittext_hint">Type you firstname</string>
+    <string name="activity_main_lastname_edittext_hint">Type your lastname</string>
+    <string name="activity_main_update_firstname_button_text">update firstname</string>
+    <string name="activity_main_update_lastname_button_text">update lastname</string>
+    <string name="activity_main_firstname_textview_title">Firstname :</string>
+    <string name="activity_main_lastname_textview_title">Lastname :</string>
+</resources>
